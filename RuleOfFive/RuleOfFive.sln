@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E32ED43-A4D6-4879-A327-382B7367C529}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algebra", "algebra\algebra.vcxproj", "{B5311173-97A7-419B-A715-BA70087D75CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestAlgebra", "UnitTestAlgebra\UnitTestAlgebra.vcxproj", "{BD457121-3558-4870-88B1-1287498EEE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Debug|ARM.ActiveCfg = Debug|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Debug|x64.ActiveCfg = Debug|x64
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Debug|x64.Build.0 = Debug|x64
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Debug|x86.Build.0 = Debug|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Release|ARM.ActiveCfg = Release|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Release|ARM64.ActiveCfg = Release|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Release|x64.ActiveCfg = Release|x64
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Release|x64.Build.0 = Release|x64
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Release|x86.ActiveCfg = Release|Win32
+		{B5311173-97A7-419B-A715-BA70087D75CD}.Release|x86.Build.0 = Release|Win32
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|ARM.Build.0 = Debug|ARM
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|ARM.Deploy.0 = Debug|ARM
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|ARM64.Build.0 = Debug|ARM64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|x64.ActiveCfg = Debug|x64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|x64.Build.0 = Debug|x64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|x64.Deploy.0 = Debug|x64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|x86.Build.0 = Debug|Win32
+		{BD457121-3558-4870-88B1-1287498EEE88}.Debug|x86.Deploy.0 = Debug|Win32
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|ARM.ActiveCfg = Release|ARM
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|ARM.Build.0 = Release|ARM
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|ARM.Deploy.0 = Release|ARM
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|ARM64.ActiveCfg = Release|ARM64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|ARM64.Build.0 = Release|ARM64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|ARM64.Deploy.0 = Release|ARM64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|x64.ActiveCfg = Release|x64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|x64.Build.0 = Release|x64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|x64.Deploy.0 = Release|x64
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|x86.ActiveCfg = Release|Win32
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|x86.Build.0 = Release|Win32
+		{BD457121-3558-4870-88B1-1287498EEE88}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CAEB5E8-54FD-4677-A51B-71766A337BD0}
+	EndGlobalSection
+EndGlobal

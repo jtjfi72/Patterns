@@ -1,7 +1,7 @@
 
-RuleOfFive/.vs/RuleOfFive/v15/Browse.VC.db
-RuleOfFive/.vs/RuleOfFive/v15/Browse.VC.opendb
-RuleOfFive/.vs/RuleOfFive/v15/ipch/7638958ba7497e65.ipch
-RuleOfFive/.vs/RuleOfFive/v15/Solution.VC.db
-RuleOfFive/.vs/RuleOfFive/v15/Solution.VC.db-shm
-RuleOfFive/.vs/RuleOfFive/v15/Solution.VC.db-wal
+RuleOfFive/.vs/*
+RuleOfFive/Debug/*
+RuleOfFive/algebra/Debug/*
+RuleOfFive/UnitTestAlgebra/Debug/*
+RuleOfFive/UnitTestAlgebra/Generated Files/*
+
